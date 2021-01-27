@@ -1,0 +1,26 @@
+h1{
+    background-color:slategray;
+    color:tomato;
+    text-align: center;
+}
+
+body{
+    background-color: lightcyan;
+}
+img{
+    border: black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 50px;
+}
+
+#head1{
+    background-color: slategray;
+    text-align: center;
+}
+
+#bodies{
+    display: flex;
+    flex-wrap: wrap;
+
+}
